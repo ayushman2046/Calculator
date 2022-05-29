@@ -1,0 +1,23 @@
+body{
+    background-color:  #739da8 !important;
+}
+
+.col-md-6{
+    margin-top: 100px !important;
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%) !important;
+}
+.ayush{
+    width: 100% !important;
+    color: white !important;
+    background-color: blue !important;
+    font-weight: bolder !important;
+    border: 2px solid black !important;
+}
+input[type=text]{
+    width: 100% !important;
+
+}
+h1{
+    font-weight: bolder !important;
+    margin-top: 10px !important;
+}
